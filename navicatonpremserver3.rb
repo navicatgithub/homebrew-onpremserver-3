@@ -1,10 +1,10 @@
 class Navicatonpremserver3 < Formula
-  version "3.0.1"
+  version "3.0.2"
   desc "Navicat On-Prem Server is an on-premise solution that provides you with the option to host a cloud environment for storing Navicat objects internally at your location. You can enjoy complete control over your system and maintain 100% privacy."
   homepage "https://www.navicat.com/en/products/navicat-on-prem-server"
-  url "https://download3.navicat.com/onpremsvr3-download/homebrew/navicat-onprem-server-3.0.1.zip"
-  mirror "https://dn.navicat.com.cn/onpremsvr3-download/homebrew/navicat-onprem-server-3.0.1.zip"
-  sha256 "2dfafa5b4e947871d049030f85068b1c9881ac59cef88ae0a88d240ca6b26537"
+  url "https://download3.navicat.com/onpremsvr3-download/homebrew/navicat-onprem-server-3.0.2.zip"
+  mirror "https://dn.navicat.com.cn/onpremsvr3-download/homebrew/navicat-onprem-server-3.0.2.zip"
+  sha256 "450030de9fef77acc5cb826f2f04d8f91327b78f708d5d3cf648a2d620fd7134"
 
   def install
     # Preload
